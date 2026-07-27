@@ -7,3 +7,10 @@ for name in identifiers:
         print(f"{name} -> Valid Identifier")
     else:
         print(f"{name} -> Invalid Identifier")
+        #output:2value -> Invalid Identifier
+#value_2 -> Valid Identifier
+#_hidden -> Valid Identifier
+#class -> Invalid Identifier
+#my-var -> Invalid Identifier
+#MyClass -> Valid Identifier
+#total$ -> Invalid Identifier

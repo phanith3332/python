@@ -27,3 +27,7 @@ print("Class object name:", s.name)
 
 # Call the function
 display_message()
+#output: Variable (age): 20
+# Constant-style name (MAX_VALUE): 100
+# Name with underscore (student_id): 101
+# Class object name: Sai
