@@ -1,4 +1,3 @@
-# Trying to use keywords as variable names
 
 for = 5
 True = 10
