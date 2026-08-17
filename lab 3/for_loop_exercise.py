@@ -1,3 +1,6 @@
+#vallabani phanith
+#25431a05m2
+#section-D
 #exercise_13
 num=int(input('enter a num:'))
 for i in range(1,11):

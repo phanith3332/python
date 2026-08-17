@@ -1,3 +1,6 @@
+#vallabani phanith
+#25431a05m2
+#section-D
 #exercise_18
 n=int(input('enter number of rows:'))
 for i in range(1, n+1):

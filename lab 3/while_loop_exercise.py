@@ -1,3 +1,6 @@
+#vallabani phanith
+#25431a05m2
+#section-D
 #exercise_8
 n=int(input('enter n:'))
 i=1

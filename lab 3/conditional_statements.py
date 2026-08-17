@@ -1,3 +1,6 @@
+#vallabani phanith
+#25431a05m2
+#section-D
 #exercise_1
 num=int(input('enter a number:'))
 if num > 0:
